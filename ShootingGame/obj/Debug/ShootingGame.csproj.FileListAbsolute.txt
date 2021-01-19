@@ -1,0 +1,11 @@
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csprojAssemblyReference.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.Form1.resources
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.Properties.Resources.resources
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.GenerateResource.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.pdb
+C:\Users\TheXJ\Desktop\MyCodes\c#\uni\ShootingGame\ShootingGame\obj\Debug\ShootingGame.Form2.resources
